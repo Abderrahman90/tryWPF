@@ -1,4 +1,4 @@
-# tryWPF
+# C# and tryWPF
 La différence entre rendre une méthode statique ou créer une instance pour accéder à une méthode non statique dans C# touche plusieurs aspects importants en termes de conception du code, de performance et de flexibilité. Voici une analyse plus détaillée des deux approches:
 
 1. Méthode statique (static)
